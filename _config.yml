@@ -4,13 +4,13 @@ logo: Me.png # Use a relative path to logo image
 
 description: Research scientist. # Fix hyphenation 
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-google_site_verification: "phON0U--Ul0kfGMp5NCAtLGWvDwYfItH8eVC5srOPKg" # Verify ownership through Search Console  
+google_site_verification: "M9LBbIcZEVDb1zufSOm1OMrgcYJhY7XiVzkSjJHriMw" # Verify ownership through Search Console  
 
 email: sergey.shmakov@gmail.com # Allow visitors to contact you
