@@ -8,26 +8,25 @@ I am a research fellow with nine years of research experience and six years as a
 * * *
 
 #### Experience:
-|:--------------------|:----------------------------------------------------------------------|
-|10/2017 – Present    | Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA |  
+**10/2017 – Present**   Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA   
 Postdoctoral Research under Dr. Eugene Koonin 
-|10/2017 – 10/2018    | Skolkovo Institute of Science and Technology, Moscow, Russia          | 
+**10/2017 – 10/2018**   Skolkovo Institute of Science and Technology, Moscow, Russia          
 Research Fellow under Dr. Konstantin Severinov
-|3/2015 – 10/2017     | Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA | 
+**3/2015 – 10/2017**    Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA  
 Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov
-|2/2008 – 07/2014     | Microsoft (Russia), Moscow, Russia                                    | 
+**2/2008 – 07/2014**    Microsoft (Russia), Moscow, Russia                                     
 Software Developer Engineer (SDE), Microsoft Dynamics department
 * * *
 
 #### Education:
-Skolkovo Institute of Science and Technology, Moscow, Russia 8/2014 – 10/2017 
+**8/2014 – 10/2017**    Skolkovo Institute of Science and Technology, Moscow, Russia 
 Ph.D. in Computational Biology and Bioinformatics 
-Moscow Bioinformatics School, Moscow, Russia 8/2012 – 8/2014 
+**8/2012 – 8/2014**     Moscow Bioinformatics School, Moscow, Russia  
 Two-year bioinformatic school led by Mikhail Gelfand with focus on bioinformatics, statistics, 
 mathematics, and molecular biology
-Bauman Moscow State Technical University, Moscow, Russia 9/2006 – 8/2008
+**9/2006 – 8/2008**     Bauman Moscow State Technical University, Moscow, Russia
 M.Sc. in Computer science
-Bauman Moscow State Technical University, Moscow, Russia 9/2002 – 8/2006 
+**9/2002 – 8/2006**     Bauman Moscow State Technical University, Moscow, Russia  
 B.Sc. in Computer science
 * * *
 
