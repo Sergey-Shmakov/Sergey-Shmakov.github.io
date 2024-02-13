@@ -5,8 +5,10 @@ I am a research fellow with nine years of research experience and six years as a
 * * *
 
 #### Skills:
+* * *
 
 #### Experience:
+|:--------------------|:----------------------------------------------------------------------|
 |10/2017 – Present    | Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA |  
 Postdoctoral Research under Dr. Eugene Koonin 
 |10/2017 – 10/2018    | Skolkovo Institute of Science and Technology, Moscow, Russia          | 
@@ -15,6 +17,7 @@ Research Fellow under Dr. Konstantin Severinov
 Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov
 |2/2008 – 07/2014     | Microsoft (Russia), Moscow, Russia                                    | 
 Software Developer Engineer (SDE), Microsoft Dynamics department
+* * *
 
 #### Education:
 Skolkovo Institute of Science and Technology, Moscow, Russia 8/2014 – 10/2017 
@@ -26,15 +29,18 @@ Bauman Moscow State Technical University, Moscow, Russia 9/2006 – 8/2008
 M.Sc. in Computer science
 Bauman Moscow State Technical University, Moscow, Russia 9/2002 – 8/2006 
 B.Sc. in Computer science
+* * *
 
 #### Publications:
 Published works have more than 8000 citations and h-index of 25
 Complete list also available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=X6lCOCAAAAAJ&view_op=list_works)
+* * *
 
 #### Patents:
 “Novel crispr enzymes and systems”:
 U.S. Patent Application No. 2016/038238 (published Mar. 2016-12-22)
 U.S. Patent Application No. 2016/038258 (published Mar. 2016-12-22)
+* * *
 
 #### Scientific presentations:
 6th International Conference on CRISPR Technologies, Boston, MA, USA 2023
@@ -58,6 +64,7 @@ Scientific Computational Biology branch, Retreat, Bethesda, MD, USA 2016
 Oral presentation: Novel CRISPR-Cas systems
 Skoltech MIT Conference, Moscow, Russia 2016 
 Oral presentation: Novel CRISPR-Cas systems
+* * *
 
 #### Awards:
 Moscow Government Prize 2019 
@@ -70,6 +77,7 @@ NIH Director’s Award 2016
 Discovery of novel class 2 CRISPR-Cas systems
 Skoltech President Stipend Award 2016 
 Discovery of novel class 2 CRISPR-Cas systems
+* * *
 
 #### Teaching and Mentorship:
 Scientists Teaching Science, Bethesda, MD, USA 3-6/2018 
@@ -80,11 +88,13 @@ Koonin Laboratory, Bethesda, MD, USA 2016
 Participated in 9-week Scientist Teaching Science Pedagogy course
 GeneHack, Hackathon, Moscow, Russia 2016 
 Led two tracks related to CRISPR-Cas Class II search, mentored participating teams
+* * *
 
 #### Professional Services:
 Served as reviewer for: Nature Scientific Reports, Oxford Academic Database,
 Frontiers in Microbiology, PeerJ The Journal of Life and Environmental Sciences, MDPI Biology, KWF 
 Kankerbestrijding – Dutch Cancer Society
+* * *
 
 #### Languages:
 Russian - Native
