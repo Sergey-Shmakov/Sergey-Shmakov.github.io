@@ -17,8 +17,8 @@ I am a research fellow with nine years of research and six years software develo
 #### Education:
 **8/2014 – 10/2017:** Skolkovo Institute of Science and Technology, Moscow, Russia<br>Ph.D. in Computational Biology and Bioinformatics<br>
 **8/2012 – 8/2014:** Moscow Bioinformatics School, Moscow, Russia<br>Two-year bioinformatic school led by Mikhail Gelfand with focus on bioinformatics, statistics, mathematics, and molecular biology<br>
-**9/2006 – 8/2008:**Bauman Moscow State Technical University, Moscow, Russia<br>M.Sc. in Computer science<br>
-**9/2002 – 8/2006:**Bauman Moscow State Technical University, Moscow, Russia<br>B.Sc. in Computer science
+**9/2006 – 8/2008:** Bauman Moscow State Technical University, Moscow, Russia<br>M.Sc. in Computer science<br>
+**9/2002 – 8/2006:** Bauman Moscow State Technical University, Moscow, Russia<br>B.Sc. in Computer science
 * * *
 
 #### Publications:
@@ -33,23 +33,23 @@ U.S. Patent Application No. 2016/038258 (published Mar. 2016-12-22)
 * * *
 
 #### Scientific presentations:
-6th International Conference on CRISPR Technologies, Boston, MA, USA 2023<br>Talk: CRISPR-like RNAs regulate expression of cas genes<br>
-CRISPR 2022, Cambridge, MA, USA 2022<br>Poster: Repeat-like RNAs in CRISPR-Cas loci<br>
-CRISPR 2019, Quebec City, Quebec, Canada 2018<br>Poster: Mapping the CRISPR-Cas spacer space onto prokaryotic virome<br>
-NIH Research Festival 2018, Bethesda, MD, USA 2018<br>Oral presentation: Computational approaches to discover novel CRISPR-Cas systems<br>
-CRISPR 2018, Vilnius, Lithuania 2018<br>Poster: Systematic prediction of genes functionally linked to CRISPR-Cas systems by gene neighborhood analysis<br>
-CRISPR 2017, Big Sky, MT, USA 2017<br>Poster: The CRISPR Spacerome<br>
-CRISPR 2016, Rehovot, Israel 2016<br>Poster: CRISPR Effector Discovery Pipeline<br>
-GeneHack, Hackathon, Moscow, Russia 2016<br>Oral presentation: CRISPR-Cas Class II search<br>
-Scientific Computational Biology branch, Retreat, Bethesda, MD, USA 2016<br>Oral presentation: Novel CRISPR-Cas systems<br>
+6th International Conference on CRISPR Technologies, Boston, MA, USA 2023<br>Talk: CRISPR-like RNAs regulate expression of cas genes<br style="line-height: 10px" />
+CRISPR 2022, Cambridge, MA, USA 2022<br>Poster: Repeat-like RNAs in CRISPR-Cas loci<br style="line-height: 10px" />
+CRISPR 2019, Quebec City, Quebec, Canada 2018<br>Poster: Mapping the CRISPR-Cas spacer space onto prokaryotic virome<br style="line-height: 10px" />
+NIH Research Festival 2018, Bethesda, MD, USA 2018<br>Oral presentation: Computational approaches to discover novel CRISPR-Cas systems<br style="line-height: 10px" />
+CRISPR 2018, Vilnius, Lithuania 2018<br>Poster: Systematic prediction of genes functionally linked to CRISPR-Cas systems by gene neighborhood analysis<br style="line-height: 10px" />
+CRISPR 2017, Big Sky, MT, USA 2017<br>Poster: The CRISPR Spacerome<br style="line-height: 10px" />
+CRISPR 2016, Rehovot, Israel 2016<br>Poster: CRISPR Effector Discovery Pipeline<br style="line-height: 10px" />
+GeneHack, Hackathon, Moscow, Russia 2016<br>Oral presentation: CRISPR-Cas Class II search<br style="line-height: 10px" />
+Scientific Computational Biology branch, Retreat, Bethesda, MD, USA 2016<br>Oral presentation: Novel CRISPR-Cas systems<br style="line-height: 10px" />
 Skoltech MIT Conference, Moscow, Russia 2016<br>Oral presentation: Novel CRISPR-Cas systems
 * * *
 
 #### Awards:
-Moscow Government Prize 2019<br>Discovery and characterization of novel prokaryotic defense systems<br>
-Research grant from Russian Fund for Fundamental Research #18-34-00012 2017-2018<br>Discovery and characterization of novel CRISPR-Cas systems<br>
-Philip Morris Systems Biology Fellowship Program 2018<br>Comprehensive characterization of CRISPR-linked genes<br>
-NIH Director’s Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems<br>
+Moscow Government Prize 2019<br>Discovery and characterization of novel prokaryotic defense systems<br style="line-height: 10px" />
+Research grant from Russian Fund for Fundamental Research #18-34-00012 2017-2018<br>Discovery and characterization of novel CRISPR-Cas systems<br style="line-height: 10px" />
+Philip Morris Systems Biology Fellowship Program 2018<br>Comprehensive characterization of CRISPR-linked genes<br style="line-height: 10px" />
+NIH Director’s Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems<br style="line-height: 10px" />
 Skoltech President Stipend Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems
 * * *
 
