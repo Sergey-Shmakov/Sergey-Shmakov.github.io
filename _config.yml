@@ -6,7 +6,7 @@ description: Research scientist. # Fix hyphenation
 
 show_downloads: false # Fix spelling
 
-theme: jekyll-theme-minima 
+theme: jekyll-theme-slate 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
