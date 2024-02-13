@@ -8,14 +8,10 @@ I am a research fellow with nine years of research experience and six years as a
 * * *
 
 #### Experience:
-**10/2017 – Present**   Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br><br>   
-Postdoctoral Research under Dr. Eugene Koonin<br><br> 
-**10/2017 – 10/2018**   Skolkovo Institute of Science and Technology, Moscow, Russia<br><br>          
-Research Fellow under Dr. Konstantin Severinov<br><br>
-**3/2015 – 10/2017**    Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br><br>  
-Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov<br><br>
-**2/2008 – 07/2014**    Microsoft (Russia), Moscow, Russia<br><br>                                     
-Software Developer Engineer (SDE), Microsoft Dynamics department
+**10/2017 – Present**   Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Postdoctoral Research under Dr. Eugene Koonin<br> 
+**10/2017 – 10/2018**   Skolkovo Institute of Science and Technology, Moscow, Russia<br>Research Fellow under Dr. Konstantin Severinov<br>
+**3/2015 – 10/2017**    Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov<br>
+**2/2008 – 07/2014**    Microsoft (Russia), Moscow, Russia<br>Software Developer Engineer (SDE), Microsoft Dynamics department
 * * *
 
 #### Education:
