@@ -14,7 +14,7 @@ CRISPR-Cas and Bacterial Defense Systems, Genome Mining, Comparative and Evoluti
 **Soft. Dev.:** Python, R, Bash, previously used: C/C++, C#;<br>OOP, Functional Programming, Unit tests, Massive data processing, parallel computing, HPC;<br>
 **ML tools:** PyTorch, PyTorch Geometric;<br>
 **OS platform:** Linux, Windows OS;
-
+* * *
 
 #### Experience:
 **10/2017 – Present:** Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Postdoctoral Research under Dr. Eugene Koonin<br> 
