@@ -1,7 +1,7 @@
 # Research scientist, NCBI/NLM/NIH
 
 #### Summary: 
-I am a research fellow with nine years of research and six years software developer experience. My research field is computational biology, where I develop and apply computational methods to analyze bacterial and viral genomes. I have discovered and characterized 14 novel CRISPR-Cas systems, participated in the classification of CRISPR-Cas systems, identified crRNA-like regulatory elements in model organisms and created a protocol to search for functionally associated genes. My research was published in high profile journals like Nature, Cell and Science. 
+I am a research fellow with nine years of research and six years of software development experience. My research field is computational biology, where I develop and apply computational methods to analyze bacterial and viral genomes. I have discovered and characterized 14 novel CRISPR-Cas systems, participated in the classification of CRISPR-Cas systems, identified crRNA-like regulatory elements in model organisms and created a protocol to search for functionally associated genes. My research was published in high profile journals like Nature, Cell and Science. 
 * * *
 
 #### Research areas:
@@ -9,11 +9,11 @@ CRISPR-Cas and Bacterial Defense Systems, Genome Mining, Comparative and Evoluti
 * * *
 
 #### Skills:
-**Biology:** Bacterial Genomes, Mobile Genetic Elements: CRISPR-Cas, Defense Systems, Transposons, Viruses;
-**Bioinformatics:** Sequence analys: BLAST, HHSearch, MMSeqs, AlphaFold2, DALI, FoldSeek; Phylogeny: FastTree, IQTree; Genomic Databaseses assembly and maintaining;   
-**Soft. Dev.:** Python, R, Bash, previously used: C/C++, C#;<br>OOP, Functional Programming, Unit tests, Massive data processing, parallel computing, HPC
-**ML tools:** PyTorch, PyTorch Geometric
-**OS platform:** Linux, Windows OS
+**Biology:** Bacterial Genomes, Mobile Genetic Elements: CRISPR-Cas, Defense Systems, Transposons, Viruses;<br>
+**Bioinformatics:** Sequence analys: BLAST, HHSearch, MMSeqs, AlphaFold2, DALI, FoldSeek; Phylogeny: FastTree, IQTree; Genomic Databaseses assembly and maintaining;<br>   
+**Soft. Dev.:** Python, R, Bash, previously used: C/C++, C#;<br>OOP, Functional Programming, Unit tests, Massive data processing, parallel computing, HPC;<br>
+**ML tools:** PyTorch, PyTorch Geometric;<br>
+**OS platform:** Linux, Windows OS;
 
 
 #### Experience:
