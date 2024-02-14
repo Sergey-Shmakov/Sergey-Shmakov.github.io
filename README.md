@@ -1,7 +1,7 @@
 # Research scientist, NCBI/NLM/NIH
 
 #### Summary: 
-I am a research fellow with nine years of research and six years software developer experience. My research field is computational biology, where I develop and apply computational methods to analyze bacterial and viral genomes. I have discovered and characterized 14 novel CRISPR-Cas systems. 
+I am a research fellow with nine years of research and six years software developer experience. My research field is computational biology, where I develop and apply computational methods to analyze bacterial and viral genomes. I have discovered and characterized 14 novel CRISPR-Cas systems, participated in the classification of CRISPR-Cas systems, identified crRNA-like regulatory elements in model organisms and created a protocol to search for functionally associated genes. My research was published in high profile journals like Nature, Cell and Science. 
 * * *
 
 #### Skills:
@@ -42,7 +42,7 @@ U.S. Patent Application No. 2016/038258 (published Mar. 2016-12-22)
 *   CRISPR 2016, Rehovot, Israel 2016<br>Poster: CRISPR Effector Discovery Pipeline<br style="line-height: 10px" />
 *   GeneHack, Hackathon, Moscow, Russia 2016<br>Oral presentation: CRISPR-Cas Class II search<br style="line-height: 10px" />
 *   Scientific Computational Biology branch, Retreat, Bethesda, MD, USA 2016<br>Oral presentation: Novel CRISPR-Cas systems<br style="line-height: 10px" />
-*   Skoltech MIT Conference, Moscow, Russia 2016<br>Oral presentation: Novel CRISPR-Cas systems
+*   Skoltech MIT Conference, Moscow, Russia 2016<br>Oral presentation: Novel CRISPR-Cas systems<br>
 * * *
 
 #### Awards:
@@ -50,13 +50,13 @@ U.S. Patent Application No. 2016/038258 (published Mar. 2016-12-22)
 *   Research grant from Russian Fund for Fundamental Research #18-34-00012 2017-2018<br>Discovery and characterization of novel CRISPR-Cas systems<br style="line-height: 10px" />
 *   Philip Morris Systems Biology Fellowship Program 2018<br>Comprehensive characterization of CRISPR-linked genes<br style="line-height: 10px" />
 *   NIH Director’s Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems<br style="line-height: 10px" />
-*   Skoltech President Stipend Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems
+*   Skoltech President Stipend Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems<br>
 * * *
 
 #### Teaching and Mentorship:
 *   Koonin Laboratory, Bethesda, MD, USA 2018<br>Co-mentored master student, Irina Utkina<br>
 *   Koonin Laboratory, Bethesda, MD, USA 2016<br>Participated in 9-week Scientist Teaching Science Pedagogy course<br>
-*   GeneHack, Hackathon, Moscow, Russia 2016<br>Led two tracks related to CRISPR-Cas Class II search, mentored participating teams
+*   GeneHack, Hackathon, Moscow, Russia 2016<br>Led two tracks related to CRISPR-Cas Class II search, mentored participating teams<br>
 * * *
 
 #### Professional Services:
