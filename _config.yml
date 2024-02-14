@@ -13,4 +13,5 @@ plugins:
 
 google_site_verification: "M9LBbIcZEVDb1zufSOm1OMrgcYJhY7XiVzkSjJHriMw" # Verify ownership through Search Console  
 
+show_email: true
 email: sergey.shmakov@gmail.com # Allow visitors to contact you
