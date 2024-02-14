@@ -4,7 +4,7 @@ logo: Me.png # Use a relative path to logo image
 
 description: Research scientist. # Fix hyphenation 
 
-show_downloads: false # Fix spelling
+#show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
