@@ -35,14 +35,14 @@ Published 31 papers that have more than 8000 citations and h-index of 25
 Complete list also available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=X6lCOCAAAAAJ&view_op=list_works)
 
 ##### Selected publications:
-Shmakov SA, et al. Widespread CRISPR-derived RNA regulatory elements in CRISPR-Cas systems. Nucleic Acids Res. 2023. doi: 10.1093/nar/gkad495
-Shmakov SA, Utkina I, et. al. CRISPR Arrays Away from cas Genes. CRISPR J. 2020. doi: 10.1089/crispr.2020.0062
-Shmakov SA, et al. Mapping CRISPR spaceromes reveals vast host-specific viromes of prokaryotes. Commun Biol. 2020. doi:10.1038/s42003-020-1014-1
-Shmakov SA, et al. Systematic prediction of functionally linked genes in bacterial and archaeal genomes. Nat Protoc. 2019. doi: 10.1038/s41596-019-0211-1
-Shmakov SA, et al. Systematic prediction of genes functionally linked to CRISPR-Cas systems by gene neighborhood analysis. Proc Natl Acad Sci USA. 2018. doi: 10.1073/pnas.1803440115
-Shmakov SA, et al. The CRISPR Spacer Space Is Dominated by Sequences from Species-Specific Mobilomes. MBio. 2017. doi: 10.1128/mBio.01397-17
-Shmakov S, et al. Diversity and evolution of class 2 CRISPR-Cas systems. Nat Rev Microbiol. 2017. doi:10.1038/nrmicro.2016.184
-Shmakov S, et al. Discovery and Functional Characterization of Diverse Class 2 CRISPR-Cas Systems. Mol Cell. 2015. doi: 10.1016/j.molcel.2015.10.008
+Shmakov SA, et al. Widespread CRISPR-derived RNA regulatory elements in CRISPR-Cas systems. Nucleic Acids Res. 2023. doi: 10.1093/nar/gkad495<br>
+Shmakov SA, Utkina I, et. al. CRISPR Arrays Away from cas Genes. CRISPR J. 2020. doi: 10.1089/crispr.2020.0062<br>
+Shmakov SA, et al. Mapping CRISPR spaceromes reveals vast host-specific viromes of prokaryotes. Commun Biol. 2020. doi:10.1038/s42003-020-1014-1<br>
+Shmakov SA, et al. Systematic prediction of functionally linked genes in bacterial and archaeal genomes. Nat Protoc. 2019. doi: 10.1038/s41596-019-0211-1<br>
+Shmakov SA, et al. Systematic prediction of genes functionally linked to CRISPR-Cas systems by gene neighborhood analysis. Proc Natl Acad Sci USA. 2018. doi: 10.1073/pnas.1803440115<br>
+Shmakov SA, et al. The CRISPR Spacer Space Is Dominated by Sequences from Species-Specific Mobilomes. MBio. 2017. doi: 10.1128/mBio.01397-17<br>
+Shmakov S, et al. Diversity and evolution of class 2 CRISPR-Cas systems. Nat Rev Microbiol. 2017. doi:10.1038/nrmicro.2016.184<br>
+Shmakov S, et al. Discovery and Functional Characterization of Diverse Class 2 CRISPR-Cas Systems. Mol Cell. 2015. doi: 10.1016/j.molcel.2015.10.008<br>
 * * *
 
 #### Patents:
