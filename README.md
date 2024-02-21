@@ -29,7 +29,7 @@ CRISPR-Cas and Bacterial Defense Systems; Genome Mining; Comparative and Evoluti
   - Was involved in for: Feature development; Test automations; Architecture solutions; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
   - Main projects: Developed backbone for Microsoft Dynamics NAV Rapid Start, excel reporting engine;<br>
   - Technologies used: Microsoft Dynamics NAV; C/AL; C#; Microsoft Azure; 
-  
+
 * * *
 
 #### Education:
@@ -52,6 +52,8 @@ Complete list available at [Google Scholar](https://scholar.google.com/citations
 *   Shmakov SA, et al. **The CRISPR Spacer Space Is Dominated by Sequences from Species-Specific Mobilomes.** MBio. 2017. doi: 10.1128/mBio.01397-17<br>
 *   Shmakov S, et al. **Diversity and evolution of class 2 CRISPR-Cas systems.** Nat Rev Microbiol. 2017. doi:10.1038/nrmicro.2016.184<br>
 *   Shmakov S, et al. **Discovery and Functional Characterization of Diverse Class 2 CRISPR-Cas Systems.** Mol Cell. 2015. doi: 10.1016/j.molcel.2015.10.008<br>
+  
+* * *
 
 #### Patents:
 “Novel crispr enzymes and systems”:<br>
@@ -70,6 +72,8 @@ U.S. Patent Application No. 2016/038258 (published Mar. 2016-12-22)
 *   GeneHack, Hackathon, Moscow, Russia 2016<br>Oral presentation: CRISPR-Cas Class II search<br style="line-height: 10px" />
 *   Scientific Computational Biology branch, Retreat, Bethesda, MD, USA 2016<br>Oral presentation: Novel CRISPR-Cas systems<br style="line-height: 10px" />
 *   Skoltech MIT Conference, Moscow, Russia 2016<br>Oral presentation: Novel CRISPR-Cas systems<br>
+  
+* * *
 
 #### Awards:
 *   Moscow Government Prize 2019<br>Discovery and characterization of novel prokaryotic defense systems<br style="line-height: 10px" />
@@ -77,11 +81,15 @@ U.S. Patent Application No. 2016/038258 (published Mar. 2016-12-22)
 *   Philip Morris Systems Biology Fellowship Program 2018<br>Comprehensive characterization of CRISPR-linked genes<br style="line-height: 10px" />
 *   NIH Director’s Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems<br style="line-height: 10px" />
 *   Skoltech President Stipend Award 2016<br>Discovery of novel class 2 CRISPR-Cas systems<br>
+  
+* * *
 
 #### Teaching and Mentorship:
 *   Koonin Laboratory, Bethesda, MD, USA 2018<br>Co-mentored master student, Irina Utkina<br>
 *   Koonin Laboratory, Bethesda, MD, USA 2016<br>Participated in 9-week Scientist Teaching Science Pedagogy course<br>
 *   GeneHack, Hackathon, Moscow, Russia 2016<br>Led two tracks related to CRISPR-Cas Class II search, mentored participating teams<br>
+  
+* * *
 
 #### Professional Services:
 Served as reviewer for: Nature Scientific Reports, Oxford Academic Database,
