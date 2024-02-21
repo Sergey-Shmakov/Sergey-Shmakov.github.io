@@ -18,16 +18,16 @@ CRISPR-Cas and Bacterial Defense Systems; Genome Mining; Comparative and Evoluti
 
 #### Experience:
 **10/2017 – Present:** Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Postdoctoral Research under Dr. Eugene Koonin<br>
-*   Developed computational methods and published [protocol](https://pubmed.ncbi.nlm.nih.gov/31520072/) to identify functionally linked genes in prokaryotes.<br>
-*   Discovered 14 novel CRISPR-Cas systems using the developed bioinfomratic methods. I found and characterized completely new [Type VI](https://pubmed.ncbi.nlm.nih.gov/26593719/) and other [class 2 CRISPR-Cas systems](https://pubmed.ncbi.nlm.nih.gov/31857715/).<br>
-*   Identified new type of [crRNA-based regulatory elements](https://pubmed.ncbi.nlm.nih.gov/37283088/) including novel regulators in model organisms.<br>
-*   Adopting Graph Neural Network-based methods for targeted search for novel prokaryotic systems (unpublished).<br>
+  - Developed computational methods and published [protocol](https://pubmed.ncbi.nlm.nih.gov/31520072/) to identify functionally linked genes in prokaryotes.<br>
+  - Discovered 14 novel CRISPR-Cas systems using the developed bioinfomratic methods. I found and characterized completely new [Type VI](https://pubmed.ncbi.nlm.nih.gov/26593719/) and other [class 2 CRISPR-Cas systems](https://pubmed.ncbi.nlm.nih.gov/31857715/).<br>
+  - Identified new type of [crRNA-based regulatory elements](https://pubmed.ncbi.nlm.nih.gov/37283088/) including novel regulators in model organisms.<br>
+  - Adopting Graph Neural Network-based methods for targeted search for novel prokaryotic systems (unpublished).<br>
 **10/2017 – 10/2018:** Skolkovo Institute of Science and Technology, Moscow, Russia<br>Research Fellow under Dr. Konstantin Severinov<br>
 **3/2015 – 10/2017:** Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov<br>
 **2/2008 – 07/2014:** Microsoft (Russia), Moscow, Russia<br>Software Developer Engineer (SDE), Microsoft Dynamics department<br>
-*   Was involved in for: Feature development; Test automations; Architecture solutions; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
-*   Main projects: Developed backbone for Microsoft Dynamics NAV Rapid Start, excel reporting engine;<br>
-*   Technologies used: Microsoft Dynamics NAV; C/AL; C#; Microsoft Azure; 
+  - Was involved in for: Feature development; Test automations; Architecture solutions; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
+  - Main projects: Developed backbone for Microsoft Dynamics NAV Rapid Start, excel reporting engine;<br>
+  - Technologies used: Microsoft Dynamics NAV; C/AL; C#; Microsoft Azure; 
 * * *
 
 #### Education:
