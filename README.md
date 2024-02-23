@@ -10,7 +10,7 @@ CRISPR-Cas and Bacterial Defense Systems; Genome Mining; Comparative and Evoluti
 
 #### Skills:
 **Biology:** Bacterial Genomes, Mobile Genetic Elements: CRISPR-Cas, Defense Systems, Transposons, Viruses;<br>
-**Bioinformatics:** Sequence analys: BLAST, HHSearch, MMSeqs, AlphaFold2, DALI, FoldSeek; Phylogeny: FastTree, IQTree; Genomic Databaseses assembly and maintaining;<br>   
+**Bioinformatics:** Sequence analysis: BLAST, HHSearch, MMSeqs, AlphaFold2, DALI, FoldSeek; Phylogeny: FastTree, IQTree; Genomic Databases assembly and maintaining;<br>   
 **Soft. Dev.:** Python, R, Bash, previously used: C/C++, C#;<br>OOP, Functional Programming, Unit tests, Massive data processing, parallel computing, HPC;<br>
 **ML tools:** PyTorch, PyTorch Geometric;<br>
 **OS platform:** Linux, Windows OS;
@@ -21,14 +21,16 @@ CRISPR-Cas and Bacterial Defense Systems; Genome Mining; Comparative and Evoluti
   - Developed computational methods and published [protocol](https://pubmed.ncbi.nlm.nih.gov/31520072/) to identify functionally linked genes in prokaryotes.<br>
   - Discovered 14 novel CRISPR-Cas systems using the developed bioinfomratic methods. I found and characterized completely new [Type VI](https://pubmed.ncbi.nlm.nih.gov/26593719/) and other [class 2 CRISPR-Cas systems](https://pubmed.ncbi.nlm.nih.gov/31857715/).<br>
   - Identified new type of [crRNA-based regulatory elements](https://pubmed.ncbi.nlm.nih.gov/37283088/) including novel regulators in model organisms.<br>
-  - Adopting Graph Neural Network-based methods for targeted search for novel prokaryotic systems (unpublished).
+  - Adopting Graph Neural Network-based methods for targeted search for novel prokaryotic systems (unpublished).<br>
+
+For the projects above, I developed gene search and characterization methods. I assembled and maintained large genomic datasets, including their de novo annotation and data quality control. I developed scalable optimization approaches for large-scale gene analyses, based on gene clustering, sensitive sequence and structural homology search, and phylogeny and sequence similarity trees. I used protein profile datasets to characterize proteins and predict their functions by identifying protein domains, gene families, and applying comparative genomics approaches.       
 
 **10/2017 – 10/2018:** Skolkovo Institute of Science and Technology, Moscow, Russia<br>Research Fellow under Dr. Konstantin Severinov<br>
 **3/2015 – 10/2017:** Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov<br>
 **2/2008 – 07/2014:** Microsoft (Russia), Moscow, Russia<br>Software Developer Engineer (SDE), Microsoft Dynamics department<br>
-  - Was involved in for: Feature development; Test automations; Architecture solutions; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
-  - Main projects: Developed backbone for Microsoft Dynamics NAV Rapid Start, excel reporting engine;<br>
-  - Technologies used: Microsoft Dynamics NAV; C/AL; C#; Microsoft Azure; 
+  - Was involved in: Microsoft Dynamics NAV feature development; Test automations; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
+  - Main projects: Developed backbone for Microsoft Dynamics NAV Rapid Start and excel reporting engine;<br>
+  - Technologies used: Microsoft Dynamics NAV; C/AL; C#; Microsoft Azure; Microsoft Project; 
 
 * * *
 
