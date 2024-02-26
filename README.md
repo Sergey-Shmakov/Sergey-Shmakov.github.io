@@ -1,7 +1,7 @@
 # Research scientist, NCBI/NLM/NIH
-mailto: sergey.shmakov at gmail
+mailto: sergey.shmakov at gmail [LinkedIn](https://www.linkedin.com/in/sergey-shmakov-76755526/)
 #### Summary: 
-I am a research fellow with nine years of research and six years of software development experience. My research field is computational biology, where I develop and apply computational methods to analyze bacterial and viral genomes. I have discovered and characterized 14 novel CRISPR-Cas systems, participated in the classification of CRISPR-Cas systems, identified crRNA-like regulatory elements in model organisms and created a protocol to search for functionally associated genes. My research was published in high profile journals like Nature, Cell and Science. 
+I am a research fellow with nine years of research experience at NIH and six years of software development experience at Microsoft. I develop and apply computational methods to analyze bacterial and viral genomes. I have discovered and proposed application for 14 novel CRISPR-Cas systems, identified crRNA-like regulatory elements in model organisms, created a protocol to search for functionally associated genes, participated in the classification of CRISPR-Cas systems and many other collaborative projects. Authored publications in Nature, Cell and Science. 
 * * *
 
 #### Research areas:
@@ -20,15 +20,15 @@ CRISPR-Cas and Bacterial Defense Systems; Genome Mining; Comparative and Evoluti
 **10/2017 – Present:** Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Postdoctoral Research under Dr. Eugene Koonin.
   - Developed computational methods and published [protocol](https://pubmed.ncbi.nlm.nih.gov/31520072/) to identify functionally linked genes in prokaryotes.<br>
   - Discovered 14 novel CRISPR-Cas systems using the developed bioinfomratic methods. I found and characterized completely new [Type VI](https://pubmed.ncbi.nlm.nih.gov/26593719/) and other [class 2 CRISPR-Cas systems](https://pubmed.ncbi.nlm.nih.gov/31857715/).<br>
-  - Identified new type of [crRNA-based regulatory elements](https://pubmed.ncbi.nlm.nih.gov/37283088/) including novel regulators in model organisms.<br>
-  - Adopting Graph Neural Network-based methods for targeted search for novel prokaryotic systems (unpublished).<br>
+  - Applied sequence analysis methods to identify new [crRNA-based regulatory elements](https://pubmed.ncbi.nlm.nih.gov/37283088/) including novel regulators in model organisms.<br>
+  - Adopting Graph Neural Network-based methods for targeted identification of novel prokaryotic systems for biotechnological applications (in progress).<br>
 
-For the projects above, I developed gene search and characterization methods. I assembled and maintained large genomic datasets, including their de novo annotation and data quality control. I developed scalable optimization approaches for large-scale gene analyses, based on gene clustering, sensitive sequence and structural homology search, and phylogeny and sequence similarity trees. I used protein profile datasets to characterize proteins and predict their functions by identifying protein domains, gene families, and applying comparative genomics approaches.       
+Developed & published novel gene search/characterization methods. Assembled and maintained large genomic datasets, including their de novo annotation and data quality control. I developed scalable optimization approaches for large-scale gene analyses, based on gene clustering, sensitive sequence and structural homology search, and phylogeny and sequence similarity trees. I used protein profile datasets to characterize proteins and predict their functions by identifying protein domains, gene families, and applying comparative genomics approaches.       
 
 **10/2017 – 10/2018:** Skolkovo Institute of Science and Technology, Moscow, Russia<br>Research Fellow under Dr. Konstantin Severinov<br>
 **3/2015 – 10/2017:** Evolutionary Genomics Research group, NCBI/NLM/NIH, Bethesda, MD, USA<br>Graduate Research under Dr. Eugene Koonin and Dr. Konstantin Severinov<br>
 **2/2008 – 07/2014:** Microsoft (Russia), Moscow, Russia<br>Software Developer Engineer (SDE), Microsoft Dynamics department<br>
-  - Was involved in: Microsoft Dynamics NAV feature development; Test automations; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
+  - Was responsible for: Microsoft Dynamics NAV feature development; Test automations; Internal and vendor code review, product legacy code refactoring; Agile development process (SCRUM/KANBAN);<br>
   - Main projects: Developed backbone for Microsoft Dynamics NAV Rapid Start and excel reporting engine;<br>
   - Technologies used: Microsoft Dynamics NAV; C/AL; C#; Microsoft Azure; Microsoft Project; 
 
